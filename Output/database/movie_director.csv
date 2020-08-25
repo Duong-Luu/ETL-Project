@@ -1,4 +1,4 @@
-imdbID,Director
+imdb_id,director
 tt0111161,Frank Darabont
 tt0068646,Francis Ford Coppola
 tt0071562,Francis Ford Coppola
@@ -14,13 +14,15 @@ tt0109830,Robert Zemeckis
 tt1375666,Christopher Nolan
 tt0080684,Irvin Kershner
 tt0167261,Peter Jackson
-tt0133093,"Lana Wachowski, Lilly Wachowski"
+tt0133093,Lana Wachowski
+tt0133093,Lilly Wachowski
 tt0099685,Martin Scorsese
 tt0073486,Milos Forman
 tt0047478,Akira Kurosawa
 tt0114369,David Fincher
 tt0118799,Roberto Benigni
-tt0317248,"Fernando Meirelles, Kátia Lund(co-director)"
+tt0317248,Fernando Meirelles
+tt0317248,Kátia Lund(co-director)
 tt0102926,Jonathan Demme
 tt0038650,Frank Capra
 tt0076759,George Lucas
@@ -33,7 +35,8 @@ tt8503618,Thomas Kail
 tt0110413,Luc Besson
 tt0114814,Bryan Singer
 tt0056058,Masaki Kobayashi
-tt0110357,"Roger Allers, Rob Minkoff"
+tt0110357,Roger Allers
+tt0110357,Rob Minkoff
 tt0088763,Robert Zemeckis
 tt0253474,Roman Polanski
 tt0103064,James Cameron
@@ -43,7 +46,8 @@ tt0054215,Alfred Hitchcock
 tt0172495,Ridley Scott
 tt0021749,Charles Chaplin
 tt0407887,Martin Scorsese
-tt1675434,"Olivier Nakache, Éric Toledano"
+tt1675434,Olivier Nakache
+tt1675434,Éric Toledano
 tt2582802,Damien Chazelle
 tt0482571,Christopher Nolan
 tt0095327,Isao Takahata
@@ -62,19 +66,24 @@ tt0405094,Florian Henckel von Donnersmarck
 tt0050825,Stanley Kubrick
 tt0081505,Stanley Kubrick
 tt0910970,Andrew Stanton
-tt4154756,"Anthony Russo, Joe Russo"
+tt4154756,Anthony Russo
+tt4154756,Joe Russo
 tt0043014,Billy Wilder
 tt0119698,Hayao Miyazaki
 tt0051201,Billy Wilder
-tt4633694,"Bob Persichetti, Peter Ramsey, Rodney Rothman"
+tt4633694,Bob Persichetti
+tt4633694,Peter Ramsey
+tt4633694,Rodney Rothman
 tt0057012,Stanley Kubrick
 tt0364569,Chan-wook Park
 tt1345836,Christopher Nolan
 tt0087843,Sergio Leone
-tt4154796,"Anthony Russo, Joe Russo"
+tt4154796,Anthony Russo
+tt4154796,Joe Russo
 tt0090605,James Cameron
 tt6033368,Megumi Shiraishi
-tt2380307,"Lee Unkrich, Adrian Molina(co-director)"
+tt2380307,Lee Unkrich
+tt2380307,Adrian Molina(co-director)
 tt0169547,Sam Mendes
 tt0112573,Mel Gibson
 tt1187043,Rajkumar Hirani
@@ -103,7 +112,8 @@ tt0012349,Charles Chaplin
 tt0066921,Stanley Kubrick
 tt0053125,Alfred Hitchcock
 tt0208092,Guy Ritchie
-tt0045152,"Stanley Donen, Gene Kelly"
+tt0045152,Stanley Donen
+tt0045152,Gene Kelly
 tt0086250,Brian De Palma
 tt0075314,Martin Scorsese
 tt0211915,Jean-Pierre Jeunet
@@ -120,10 +130,12 @@ tt0036775,Billy Wilder
 tt0056592,Robert Mulligan
 tt0091251,Elem Klimov
 tt0097576,Steven Spielberg
-tt1049413,"Pete Docter, Bob Peterson(co-director)"
+tt1049413,Pete Docter
+tt1049413,Bob Peterson(co-director)
 tt2095684,Babis Makridis
 tt0113277,Michael Mann
-tt0071853,"Terry Gilliam, Terry Jones"
+tt0071853,Terry Gilliam
+tt0071853,Terry Jones
 tt0095016,John McTiernan
 tt2759632,Shinzo Yoshida
 tt0066763,Hrishikesh Mukherjee
@@ -155,26 +167,32 @@ tt0046912,Alfred Hitchcock
 tt0015864,Charles Chaplin
 tt0071315,Roman Polanski
 tt0434409,James McTeigue
-tt0477348,"Ethan Coen, Joel Coen"
+tt0477348,Ethan Coen
+tt0477348,Joel Coen
 tt1130884,Martin Scorsese
 tt0050976,Ingmar Bergman
-tt2096673,"Pete Docter, Ronnie Del Carmen(co-director)"
+tt2096673,Pete Docter
+tt2096673,Ronnie Del Carmen(co-director)
 tt1291584,Gavin O'Connor
 tt0080678,David Lynch
 tt0117951,Danny Boyle
 tt0167404,M. Night Shyamalan
 tt0084787,John Carpenter
 tt0107290,Steven Spielberg
-tt0031381,"Victor Fleming, George Cukor, Sam Wood"
+tt0031381,Victor Fleming
+tt0031381,George Cukor
+tt0031381,Sam Wood
 tt0050986,Ingmar Bergman
 tt0083658,Ridley Scott
-tt0266543,"Andrew Stanton, Lee Unkrich(co-director)"
+tt0266543,Andrew Stanton
+tt0266543,Lee Unkrich(co-director)
 tt0120382,Peter Weir
 tt3170832,Lenny Abrahamson
 tt0050212,David Lean
 tt0079944,Andrei Tarkovsky
 tt0266697,Quentin Tarantino
-tt0116282,"Joel Coen, Ethan Coen"
+tt0116282,Joel Coen
+tt0116282,Ethan Coen
 tt0046438,Yasujirô Ozu
 tt0041959,Carol Reed
 tt0047296,Elia Kazan
@@ -182,13 +200,15 @@ tt1205489,Clint Eastwood
 tt0353969,Bong Joon Ho
 tt0077416,Michael Cimino
 tt3011894,Damián Szifron
-tt4729430,"Sergio Pablos, Carlos Martínez López(co-director)"
+tt4729430,Sergio Pablos
+tt4729430,Carlos Martínez López(co-director)
 tt8108198,Sriram Raghavan
 tt0107207,Jim Sheridan
 tt0978762,Adam Elliot
 tt2267998,David Fincher
 tt2119532,Mel Gibson
-tt0118715,"Joel Coen, Ethan Coen"
+tt0118715,Joel Coen
+tt0118715,Ethan Coen
 tt2278388,Wes Anderson
 tt0116231,Yavuz Turgul
 tt0112471,Richard Linklater
@@ -196,8 +216,10 @@ tt0264464,Steven Spielberg
 tt0035446,Ernst Lubitsch
 tt0060827,Ingmar Bergman
 tt1950186,James Mangold
-tt0017925,"Clyde Bruckman, Buster Keaton"
-tt0892769,"Dean DeBlois, Chris Sanders"
+tt0017925,Clyde Bruckman
+tt0017925,Buster Keaton
+tt0892769,Dean DeBlois
+tt0892769,Chris Sanders
 tt1392214,Denis Villeneuve
 tt0015324,Buster Keaton
 tt0356910,Doug Liman
@@ -231,7 +253,9 @@ tt0087544,Hayao Miyazaki
 tt0075148,John G. Avildsen
 tt0113247,Mathieu Kassovitz
 tt1954470,Anurag Kashyap
-tt0198781,"Pete Docter, David Silverman(co-director), Lee Unkrich(co-director)"
+tt0198781,Pete Docter
+tt0198781,David Silverman(co-director)
+tt0198781,Lee Unkrich(co-director)
 tt0032976,Alfred Hitchcock
 tt8613070,Céline Sciamma
 tt0381681,Richard Linklater
