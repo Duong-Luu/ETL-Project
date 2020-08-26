@@ -32,19 +32,21 @@ The following Data Sources were used below:
 ## Project Report
 
 - **E**xtract: 
-    - `Google scraping.ipynb`: 
-        - contains IMDB website and Google Search Engine Webscraping
-    - `netflix_high_imdb_rated(uNoGS api).ipynb`:
-        - contains IMDB website Webscraping, OMDb API, and uNoGS API extraction
-    -  `streaming_options(utelly api).ipynb`:
-        - contains Utelly API extraction
+    - `Google_scraping.ipynb`: 
+        - contains Google Search Engine Webscraping.
+    - `IMBD top 250.ipynb`:
+        - contains IMDB website Webscraping.
+    - `OMDB API.ipynb`:
+        - contains OMDb API extraction.
+    -  `Utelly API.ipynb`:
+        - contains Utelly API extraction.
 
 - **T**ransform:
-    - `Transform.ipynb`:
-        - contains all datasets that were transformed into nine tables
+    - `transform.ipynb`:
+        - contains all datasets that were transformed into tables.
 
 - **L**oad:
-    - `SQL` folder:
-        - contains ERD and schema
-    - `SQL_Table` folder:
-        - contains the creation of and all nine tables created in pgAdmin with PostgreSQL
+    - `database diagram` folder:
+        - contains ERD and schema.
+    - `Loading_PostgreSQL.ipynb`:
+        - contains the creation of and all the tables in the PostgreSQL database.
