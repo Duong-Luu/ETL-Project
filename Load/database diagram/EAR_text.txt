@@ -1,0 +1,30 @@
+top_imdb
+-
+imdb_id varchar pk
+movie_title varchar
+
+movie
+-
+imdb_id varchar FK >- top_imdb.imdb_id
+imdb_rank int
+title varchar
+year int
+runtime decimal
+rated varchar
+imdb_rating decimal
+production varchar
+
+movie_actor
+-
+imdb_id varchar FK >- top_imdb.imdb_id
+actor varchar
+
+movie_director
+-
+imdb_id varchar FK >- top_imdb.imdb_id
+director varchar
+
+movie_stream
+-
+imdb_id varchar FK >- top_imdb.imdb_id
+service_name varchar
