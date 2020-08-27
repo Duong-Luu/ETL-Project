@@ -25,7 +25,7 @@ The following Data Sources were used below:
 ## Data Cleanup & Analysis
 
 - Data extracted were formated in CSV and JSON files
-- The following datasets were then transformed by cleaning, joining, and filtering into nine tables
+- The following datasets were then transformed by cleaning, joining, and filtering into tables
 - The object-relational database, PostgreSQL, was used to load the datasets into pgAdmin. A relational database was selected as the data was in a structured format
 
 
